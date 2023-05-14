@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sort">Sort by:</string>
+    <string name="phone_number">phone number</string>
+    <string name="name">Name</string>
+    <string name="floating_action_bar">floating_action_bar</string>
+</resources>
